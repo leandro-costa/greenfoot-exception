@@ -1,0 +1,14 @@
+#Greenfoot project file
+class.Contrabandista.superclass=HabitanteDaIlha
+class.EspectroDaNevoa.superclass=HabitanteDaIlha
+class.Faroleiro.superclass=HabitanteDaIlha
+class.HabitanteDaIlha.superclass=greenfoot.Actor
+class.IlhaDasTempestades.superclass=greenfoot.World
+class.ItemDaTempestade.superclass=greenfoot.Actor
+class.LenteDeCristal.superclass=ItemDaTempestade
+class.OndaGigante.superclass=ItemDaTempestade
+class.Painel.superclass=greenfoot.Actor
+class.Querosene.superclass=ItemDaTempestade
+project.charset=UTF-8
+version=3.0.0
+world.lastInstantiated=IlhaDasTempestades
